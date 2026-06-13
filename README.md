@@ -10,7 +10,8 @@
 - **`m48plus`**: Native port of Emu48 for iOS (GPLv2, Objective-C). Kindly provided and open-sourced by the original author, I'm just hosting it here so that people can use it.
 - **`juce-tutorial`**: An exploration into audio plugin development using JUCE, and a test about using coding agents to generate training material.
 - **`livecoding-samples`**: Audio and livecoding sample libraries for noise-making. Meant to store samples to be used by livecoding sessions using strudel.cc and similar.
-
+- **`bressar-algebra`**: My attempts at solving the exercises in Bressar's Algebra book.
+- **`moriyama`**: I was once fiddling with Gemini to understand how to make a physical simulation of black and white film as an image processing device. Got some interesting results and meant to create a small app to implement the workflow. Right now, it's a dead repo, but it might revive at some point.
 
 <!--
 **wyan/wyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
